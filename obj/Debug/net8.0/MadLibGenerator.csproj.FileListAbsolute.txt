@@ -1,0 +1,15 @@
+C:\code\mitt\back-end\Algo-and-data-structures\examples\MadLibGenerator\obj\Debug\net8.0\MadLibGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\mitt\back-end\Algo-and-data-structures\examples\MadLibGenerator\obj\Debug\net8.0\MadLibGenerator.AssemblyInfoInputs.cache
+C:\code\mitt\back-end\Algo-and-data-structures\examples\MadLibGenerator\obj\Debug\net8.0\MadLibGenerator.AssemblyInfo.cs
+C:\code\mitt\back-end\Algo-and-data-structures\examples\MadLibGenerator\obj\Debug\net8.0\MadLibGenerator.csproj.CoreCompileInputs.cache
+C:\code\mitt\back-end\Algo-and-data-structures\examples\MadLibGenerator\obj\Debug\net8.0\MadLibGenerator.sourcelink.json
+C:\code\mitt\back-end\Algo-and-data-structures\examples\MadLibGenerator\bin\Debug\net8.0\MadLibGenerator.exe
+C:\code\mitt\back-end\Algo-and-data-structures\examples\MadLibGenerator\bin\Debug\net8.0\MadLibGenerator.deps.json
+C:\code\mitt\back-end\Algo-and-data-structures\examples\MadLibGenerator\bin\Debug\net8.0\MadLibGenerator.runtimeconfig.json
+C:\code\mitt\back-end\Algo-and-data-structures\examples\MadLibGenerator\bin\Debug\net8.0\MadLibGenerator.dll
+C:\code\mitt\back-end\Algo-and-data-structures\examples\MadLibGenerator\bin\Debug\net8.0\MadLibGenerator.pdb
+C:\code\mitt\back-end\Algo-and-data-structures\examples\MadLibGenerator\obj\Debug\net8.0\MadLibGenerator.dll
+C:\code\mitt\back-end\Algo-and-data-structures\examples\MadLibGenerator\obj\Debug\net8.0\refint\MadLibGenerator.dll
+C:\code\mitt\back-end\Algo-and-data-structures\examples\MadLibGenerator\obj\Debug\net8.0\MadLibGenerator.pdb
+C:\code\mitt\back-end\Algo-and-data-structures\examples\MadLibGenerator\obj\Debug\net8.0\MadLibGenerator.genruntimeconfig.cache
+C:\code\mitt\back-end\Algo-and-data-structures\examples\MadLibGenerator\obj\Debug\net8.0\ref\MadLibGenerator.dll
